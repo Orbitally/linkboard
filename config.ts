@@ -16,11 +16,6 @@ const data: Data = {
   description: 'Photographer // Developer',
   links: [
     {
-      name: 'Website',
-      url: 'https://jacob.kreindler.ca',
-      icon: Globe,
-    },
-    {
       name: 'Instagram',
       url: 'https://instagram.com/cameracob',
       icon: Instagram,
@@ -39,6 +34,11 @@ const data: Data = {
       name: 'Email',
       url: 'mailto:hello@kreindler.ca',
       icon: EnvelopeFill,
+    },
+    {
+      name: 'Website',
+      url: 'https://jacob.kreindler.ca',
+      icon: Globe,
     },
   ],
   sortByLength: false,
