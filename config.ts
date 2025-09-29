@@ -13,7 +13,7 @@ const data: Data = {
     nameRandomizer: true,
   },
   name: 'Jacob Kreindler',
-  description: 'Photographer // Developer',
+  description: 'Photographer // Developer // Aspiring Pilot',
   links: [
     {
       name: 'Instagram',
